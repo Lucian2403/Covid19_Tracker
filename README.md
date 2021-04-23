@@ -1,4 +1,8 @@
-# vue-covid-tracker
+# Covid-19 Tracker
+## A Covid 19 Tracker Data with every country possible, powered by a third party API <br>
+Feel free to contribute! <br>
+Tech used: Vue.js (CLI) & Tailwind. Additional packages: "Moment" for Date formatting.
+
 
 ## Project setup
 ```
